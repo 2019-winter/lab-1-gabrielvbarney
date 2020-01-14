@@ -36,7 +36,7 @@ Please read and reference the following as your progress through this course.
 **In the space provided below, what are three things that still remain unclear or need further explanation?**
 
 
-**YOUR ANSWER HERE**
+- Honestly, the Jupyter Notebook is pretty clear. Rather than having questions on this, I am moreso confused on Pandas. I am going to do more research on it as time goes on to 
 
 
 ## Exercises 1-7
